@@ -48,19 +48,45 @@ The Evidence IDs used in this directory are the same identifiers referenced in T
 
 ---
 
-## 📋 Evidence Policy
+## 📸 Evidence and Test Execution
 
-Evidence is used to support test execution results and, when applicable, defect reports.
+The Evidence IDs documented here correspond directly to the Evidence ID values recorded in the test execution file.
 
-Only evidence actually collected during testing is referenced.
+This allows each execution record to be traced to its corresponding evidence reference.
 
-No evidence is fabricated or created solely for documentation purposes.
+```text
+Test Case
+    ↓
+Evidence ID
+    ↓
+Test Execution
+```
 
+---
+
+## 🚫 Evidence for Blocked Test Case
+
+**TC-018**
+
+**Test Case:** TC-018  
+**Evidence ID:** EVD-018  
+**Status:** BLOCKED
+
+The result could not be confirmed as a functional defect because the public demo environment may not guarantee data persistence between sessions.
+
+The test should be repeated immediately after TC-017 within the same active session, or executed in a persistent test environment.
+
+Therefore:
+
+- EVD-018 remains a valid evidence reference.
+- TC-018 remains BLOCKED.
+- No defect is reported based solely on this result.
+  
 ---
 
 ## 📸 Screenshot Naming Convention
 
-When screenshots are available, they should follow the Evidence ID:
+If screenshots are added to this directory, they should use the corresponding Evidence ID as the filename:
 
 ```text
 EVD-001.png
@@ -69,4 +95,21 @@ EVD-003.png
 ...
 EVD-024.png
 ```
-This naming convention keeps the evidence directly traceable to the corresponding test case and execution record.
+This makes the evidence easy to identify and trace back to the relevant test case. 
+
+---
+
+## 📋 Evidence Policy
+Only evidence actually collected during the testing activity should be referenced.
+No screenshots, videos or other evidence should be fabricated or created solely to complete the documentation.
+Where evidence is unavailable, the corresponding test execution record remains the source of truth.
+
+---
+
+## 📊 Current Evidence Status
+
+The Evidence IDs EVD-001 through EVD-024 are defined and referenced in the test execution documentation.
+The screenshot files are not currently included in this repository.
+If the original screenshots become available, they can be added to:
+Evidence/screenshots/
+using the established Evidence ID naming convention.
