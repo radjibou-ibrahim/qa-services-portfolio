@@ -44,7 +44,7 @@ J'utilise également **Jira, GitHub, Excel, Postman et SQL à un niveau de base*
 
 # 🧪 Services QA
 
-## QA Quick Audit — Audit QA rapide
+## 1. QA Quick Audit — Audit QA rapide
 
 Une revue manuelle ciblée d'un site web ou d'une application web afin d'identifier les problèmes fonctionnels visibles et les problèmes potentiels d'utilisation.
 
@@ -78,7 +78,7 @@ Le prix final dépend de la taille de l'application et du périmètre des tests.
 
 ---
 
-# 🔎 Tests QA fonctionnels
+## 2. Tests QA fonctionnels
 
 Un service de tests manuels plus structuré pour les sites web et applications web.
 
@@ -114,7 +114,7 @@ Le prix final dépend du périmètre, du nombre de fonctionnalités et des livra
 
 ---
 
-# 🔄 Support QA continu
+# 3. Support QA continu
 
 Pour les équipes qui ont besoin de tests manuels réguliers pendant le développement du produit.
 
