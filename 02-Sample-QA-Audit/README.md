@@ -125,13 +125,9 @@ Test Scope
      ↓
 Test Scenarios
      ↓
-Test Cases
-     ↓
-Test Data
-     ↓
 Test Execution
      ↓
-Bug Identification
+Bug-Reports
      ↓
 Evidence Collection
      ↓
@@ -207,8 +203,6 @@ This audit contains the following QA deliverables:
 
 - `Test-Scope.md`
 - `Test-Scenarios.xlsx`
-- `Test-Cases.xlsx`
-- `Test-Data.xlsx`
 - `Test-Execution.xlsx`
 - `04-Bug-Reports/`
 - `05-Evidence/`
@@ -231,7 +225,7 @@ Test Case
      ↓
 Test Execution
      ↓
-Defect
+Bug-Reports
      ↓
 Evidence
      ↓
@@ -296,14 +290,9 @@ No confidential or private client information is used in this project.
 ├── Test-Scope.md
 │
 ├── Test-Scenarios.xlsx
-├── Test-Cases.xlsx
-├── Test-Data.xlsx
 ├── Test-Execution.xlsx
 │
 ├── 04-Bug-Reports/
-│   ├── BUG-001.md
-│   ├── BUG-002.md
-│   └── ...
 │
 ├── 05-Evidence/
 │   ├── README.md
