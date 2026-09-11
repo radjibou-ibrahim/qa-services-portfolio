@@ -141,5 +141,211 @@ This structure demonstrates traceability between the testing objectives, test ex
 
 ---
 
+## 📊 Test Execution
 
+Test execution results are recorded in:
 
+`Test-Execution.xlsx`
+
+Each executed test case is evaluated according to its actual result.
+
+Possible statuses include:
+
+- **PASS**
+- **FAIL**
+- **BLOCKED**
+- **NOT RUN**
+
+The final execution metrics are based on the actual recorded test results.
+
+---
+
+## 🐞 Defect Reporting
+
+Confirmed defects are documented in:
+
+`04-Bug-Reports/`
+
+Each defect report may contain:
+
+- **Bug ID**
+- **Title**
+- **Environment**
+- **Preconditions**
+- **Steps to Reproduce**
+- **Expected Result**
+- **Actual Result**
+- **Severity**
+- **Priority**
+- **Evidence**
+- **Status**
+
+Only reproducible and evidence-backed defects are reported.
+
+---
+
+## 📸 Testing Evidence
+
+Testing evidence is stored in:
+
+`05-Evidence/`
+
+Evidence may include:
+
+- Screenshots
+- Error messages
+- Relevant UI states
+- Other reproduction evidence
+
+Evidence is linked to the relevant findings whenever applicable.
+
+---
+
+## 📦 Project Deliverables
+
+This audit contains the following QA deliverables:
+
+- `Test-Scope.md`
+- `Test-Scenarios.xlsx`
+- `Test-Cases.xlsx`
+- `Test-Data.xlsx`
+- `Test-Execution.xlsx`
+- `04-Bug-Reports/`
+- `05-Evidence/`
+- `QA-Audit-Report.pdf`
+
+The documents demonstrate the different stages of a structured manual QA engagement.
+
+---
+
+## 🔗 Traceability
+
+The project is organized to maintain traceability between the different QA activities:
+
+```text
+Test Scope
+     ↓
+Test Scenario
+     ↓
+Test Case
+     ↓
+Test Execution
+     ↓
+Defect
+     ↓
+Evidence
+     ↓
+QA Audit Report
+```
+This makes it possible to understand how identified defects relate to the tested functionality.
+
+---
+
+## 📈 Final QA Report
+The final results of the audit are summarized in:
+- QA-Audit-Report.pdf
+- The report provides an overview of:
+- Testing scope
+- Testing approach
+- Test environment
+- Executed tests
+- Test results
+- Identified defects
+- Severity and priority
+- Evidence
+- Key findings
+- Testing limitations
+- Final QA assessment
+- The report reflects the actual results recorded during the audit.
+
+---
+
+## 🛠️ Tools
+Tools used in this project include:
+Google Chrome — Web application testing
+Microsoft Excel — Test scenarios, test cases, test data and execution
+GitHub — Project documentation and version control
+
+---
+
+## ⚠️ Testing Limitations
+This project represents a limited QA audit and does not constitute a complete quality assessment of the OrangeHRM platform.
+The conclusions apply only to:
+- The tested functionality
+- The defined scope
+- The selected environment
+- The available test data
+- The testing period
+- Untested functionality is outside the conclusions of this audit.
+
+---
+  
+## 🔐 Disclaimer
+This is an independent personal QA demonstration project.
+It is not affiliated with, sponsored by, commissioned by, or endorsed by OrangeHRM.
+The OrangeHRM Demo application is used solely for testing practice and portfolio demonstration.
+No confidential or private client information is used in this project.
+
+---
+
+## 📁 Project Structure
+
+02-Sample-QA-Audit/
+│
+├── README.md
+├── Test-Scope.md
+│
+├── Test-Scenarios.xlsx
+├── Test-Cases.xlsx
+├── Test-Data.xlsx
+├── Test-Execution.xlsx
+│
+├── 04-Bug-Reports/
+│   ├── BUG-001.md
+│   ├── BUG-002.md
+│   └── ...
+│
+├── 05-Evidence/
+│   ├── README.md
+│   └── screenshots/
+│
+└── QA-Audit-Report.pdf
+
+---
+
+## 👤 Tester
+
+**Radjibou IBRAHIM**  
+Junior QA Manual Tester
+
+### QA Focus
+
+- Manual Testing
+- Functional Testing
+- Exploratory Testing
+- Test Design
+- Bug Reporting
+- Regression Testing
+- Web Application Testing
+
+---
+
+## 📞 Contact
+
+📧 ibrahimradjibou@gmail.com  
+📧 radjguerigui07@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/radjibou-ibrahim
+
+💻 **GitHub:**  
+https://github.com/radjibou-ibrahim
+
+---
+
+## ⭐ Purpose of This Project
+
+This project demonstrates my ability to organize and execute a structured manual QA audit, from defining the testing scope to documenting findings and delivering a final QA summary.
+
+The focus is on clear testing, reproducible defects, traceability and useful QA reporting.
+  
