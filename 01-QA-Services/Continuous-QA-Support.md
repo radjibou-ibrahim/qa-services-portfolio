@@ -11,6 +11,7 @@
 The work performed depends on the client's current needs, priorities and project context.
 
 The scope can be defined and adjusted according to the project.
+This service can be used for ongoing, recurring or temporary QA support depending on the project's needs.
 
 ---
 
