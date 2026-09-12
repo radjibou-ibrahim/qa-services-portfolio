@@ -32,7 +32,21 @@ Evaluate selected authentication, navigation and employee-management workflows a
 Functional, positive, negative, exploratory, usability/UI and edge-case testing.
 
 ## Environment
-Google Chrome / Windows / OrangeHRM public demo.
+
+- **Application:** OrangeHRM Public Demo
+- **Browser:** Google Chrome
+- **Operating System:** Windows
+- **Environment:** Public Demo
+
+> Testing results are limited to the functionality, data and behavior available in the public demo environment at the time of testing.
+
+---
 
 ## Evidence rule
 Only reproducible, evidence-backed defects will be reported. No defects will be invented.
+
+---
+
+[← Back to QA Audit](./README.md)
+
+[View Test Scenarios →](./Test-Scenarios.xlsx)
