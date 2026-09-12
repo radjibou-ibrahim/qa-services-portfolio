@@ -476,19 +476,3 @@ It should provide enough objective information for the team to:
 - Verify the fix
 
 The goal of bug reporting is to improve product quality through clear, factual and actionable information.
-
----
-
-## 📬 Contact
-
-**Radjibou IBRAHIM**  
-Junior QA Manual Tester | Software Testing & Quality Assurance
-
-**LinkedIn:**  
-https://www.linkedin.com/in/radjibou-ibrahim
-
-**GitHub:**  
-https://github.com/radjibou-ibrahim
-
-**Email:**  
-ibrahimradjibou@gmail.com 
