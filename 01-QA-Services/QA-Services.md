@@ -4,357 +4,111 @@
 
 I provide manual QA testing services for websites, web applications and digital products.
 
-My goal is to help development teams identify functional issues, usability problems and potential risks before they affect end users.
+The services are designed to help identify functional issues, usability problems and potential risks before release or during product development.
 
-The testing approach is adapted to the size, complexity and objectives of each project.
+Choose the service that best matches your testing needs.
 
 ---
 
-## Services Offered
+## Services
 
 ### 1. QA Quick Audit
 
-A focused manual review designed to quickly identify important issues in a website or web application.
+A focused manual review of your website or application to identify reproducible issues and potential quality risks.
 
-This service is suitable for:
+**Starting from $25**
 
-- Startups
-- Entrepreneurs
-- Independent developers
-- Small software teams
-- Agencies
-- Newly launched websites or applications
-
-#### Main activities
-
-- Functional checks
-- Navigation testing
-- Form validation
-- Button and link verification
-- Positive and negative testing
-- Basic edge-case testing
-- Exploratory testing
-- Basic usability checks
-- Identification of functional inconsistencies
-
-#### Deliverables
-
-- List of identified issues
-- Structured bug reports
-- Steps to reproduce
-- Expected result
-- Actual result
-- Severity and priority
-- Screenshots when relevant
-- Short QA summary
-
-**Starting price: $25**
-
-The final price depends on the application's size and testing scope.
+[View Service →](./QA-Quick-Audit.md)
 
 ---
 
-# 2. Functional QA Testing
+### 2. Functional QA Testing
 
-A structured manual testing service designed to provide broader coverage of an application's functionality.
+Structured manual testing of your application based on its requirements, workflows and business priorities.
 
-This service is suitable for teams that need a more complete testing process before a release or after implementing new features.
+**Starting from $75**
 
-### Main activities
-
-#### Test Preparation
-
-- Requirements review
-- Test scope definition
-- Test scenario design
-- Test case design
-- Test data preparation
-
-#### Test Execution
-
-- Functional testing
-- Positive testing
-- Negative testing
-- Boundary Value Analysis
-- Equivalence Partitioning
-- Smoke testing
-- Regression testing
-- Exploratory testing
-
-#### Defect Management
-
-- Bug identification
-- Bug reproduction
-- Bug documentation
-- Severity assessment
-- Priority assessment
-- Retesting
-- Regression verification
-
-### Deliverables
-
-Depending on the project scope, deliverables may include:
-
-- Test scope
-- Test plan
-- Test scenarios
-- Test cases
-- Test data
-- Test execution results
-- Bug reports
-- Screenshots and testing evidence
-- Retesting results
-- QA test summary report
-
-### Starting price
-
-**From $75**
-
-The final price depends on:
-
-- Number of features
-- Application complexity
-- Number of test cases
-- Testing depth
-- Required deliverables
-- Project deadline
+[View Service →](./Functional-QA-Testing.md)
 
 ---
 
-# 3. Continuous QA Support
+### 3. Continuous QA Support
 
-Ongoing manual QA support for teams that need regular testing during product development.
+Flexible manual QA support adapted to your product, releases and ongoing testing needs.
 
-This service can be adapted to an Agile development cycle, release schedule or specific project needs.
+**Custom pricing**
 
-### Possible activities
-
-- New feature testing
-- Regression testing
-- Exploratory testing
-- Smoke testing
-- Release testing
-- Bug verification
-- Retesting
-- Test case maintenance
-- Test documentation
-- QA feedback before release
-
-### Suitable for
-
-- Startups
-- SaaS products
-- Web agencies
-- Small development teams
-- Independent developers
-- E-commerce projects
-- Teams without a dedicated QA tester
-
-Pricing is defined according to:
-
-- Testing frequency
-- Project scope
-- Number of features
-- Expected workload
-- Duration of the engagement
+[View Service →](./QA-Support.md)
 
 ---
 
-# Testing Approach
+## What You Receive
 
-My testing approach follows a structured QA process:
+Depending on the selected service, deliverables may include:
 
-```text
-Requirements
-     ↓
-Test Planning
-     ↓
-Test Scenarios
-     ↓
-Test Cases
-     ↓
-Test Data
-     ↓
-Test Execution
-     ↓
-Bug Reporting
-     ↓
-Retesting
-     ↓
-Regression Testing
-     ↓
-Test Summary
-
-```
-The process can be simplified or expanded depending on the project.
-A small website may only require a focused QA audit, while a larger application may require complete test documentation and execution.
-
----
-
-## 🧪 Testing Techniques
-
-Depending on the project, I may use the following techniques:
-
-| Technique | Purpose |
-|---|---|
-| **Functional Testing** | Verify that features work according to requirements |
-| **Positive Testing** | Verify valid inputs and expected user actions |
-| **Negative Testing** | Verify application behavior with invalid inputs |
-| **Boundary Value Analysis** | Test values around input boundaries |
-| **Equivalence Partitioning** | Test representative groups of valid and invalid inputs |
-| **Exploratory Testing** | Discover unexpected issues through structured exploration |
-| **Smoke Testing** | Quickly verify critical application functionality |
-| **Regression Testing** | Verify that existing functionality still works after changes |
-| **Retesting** | Verify that reported defects have been correctly fixed |
-
----
-
-## 🐞 Bug Reporting
-
-Clear and reproducible bug reports are an important part of my QA process.
-
-A typical bug report may contain:
-
-| Field | Description |
-|---|---|
-| **Bug ID** | Unique defect identifier |
-| **Title** | Short and clear description |
-| **Environment** | Browser, operating system, device, etc. |
-| **Preconditions** | Required conditions before reproduction |
-| **Steps to Reproduce** | Detailed reproduction steps |
-| **Expected Result** | Expected application behavior |
-| **Actual Result** | Observed application behavior |
-| **Severity** | Impact of the defect |
-| **Priority** | Urgency of fixing the defect |
-| **Evidence** | Screenshot or video when relevant |
-| **Status** | Open, Fixed, Retest, Closed, etc. |
-
-> 🎯 **Objective:** Provide developers with enough information to understand and reproduce the issue efficiently.
-
----
-
-## 🛠️ Tools
-
-Tools currently used in my QA practice include:
-
-| Tool | Purpose |
-|---|---|
-| **Jira** | Defect and issue tracking |
-| **GitHub** | Version control and QA documentation |
-| **Microsoft Excel** | Test cases, test data and execution tracking |
-| **Postman** | Basic API testing |
-| **SQL** | Basic database testing |
-| **Browser DevTools** | Web application investigation |
-
----
-
-## 📦 Typical Deliverables
-
-Depending on the project, the client may receive:
-
-- Test Scope
-- Test Plan
-- Test Scenarios
 - Test Cases
-- Test Data
 - Test Execution Results
 - Bug Reports
-- Testing Evidence
-- Exploratory Testing Notes
-- Retesting Results
-- QA Test Summary
+- Evidence
+- Exploratory Testing Results
+- QA Summary
+- QA Audit Report
 
-Not every project requires every document.
-
-The deliverables are selected according to the client's objectives and the testing scope.
+Deliverables are agreed upon according to the project scope.
 
 ---
 
-## 🤝 Client Process
+## How I Work
 
-Before starting a QA assignment, I clarify:
-
-- Application or product to test
-- Testing objectives
-- Testing scope
-- Features to be tested
-- Testing environment
-- Required access
-- Expected deliverables
-- Deadline
-- Reporting format
-- Price and payment terms
-
-This ensures that the testing scope is clearly defined before execution begins.
-
----
-
-## 💬 Communication
-
-I primarily work with French-speaking clients.
-
-For English-speaking clients, I can communicate through written messages and documentation.
-
-Client-facing QA reports can be delivered in:
-
-- French
-- English
-
-The language can be adapted to the client's requirements.
+```text
+Client Request
+      ↓
+Scope
+      ↓
+Testing
+      ↓
+Defects
+      ↓
+Evidence
+      ↓
+Reporting
+```
+The testing approach is adapted to the product, requirements, risks and agreed scope.
 
 ---
 
-## 🏆 Quality Principles
+## Who I Work With
 
-My QA work is based on the following principles:
+I can support:
 
-| Principle | Description |
-|---|---|
-| **Clear** | Test results and defects should be easy to understand. |
-| **Reproducible** | A reported defect should contain enough information to reproduce the issue whenever possible. |
-| **Structured** | Testing activities should follow a clear and traceable process. |
-| **Evidence-Based** | Important findings should be supported by appropriate testing evidence. |
-| **Risk-Focused** | Testing effort should prioritize critical functionality and higher-risk areas. |
-| **Practical** | The testing process should provide useful information for development and product decisions. | 
+- Startups
+- Small businesses
+- Software companies
+- Web agencies
+- Developers
+- E-commerce businesses
+- SaaS teams
+- Digital product owners
 
----
+## Scope & Limitations
 
-## 📌 Scope and Limitations
+### Main Focus
 
-These services primarily focus on manual software testing.
+- Manual QA
+- Functional Testing
+- Exploratory Testing
+- Regression Testing
+- Retesting
+- Defect Reporting
 
-Depending on the project, testing may include:
+### Not Included by Default
 
-- Web applications
-- Websites
-- E-commerce applications
-- SaaS applications
-- Digital products
+- Test Automation
+- Performance / Load Testing
+- Security Penetration Testing
+- Other specialized testing
 
-Unless specifically agreed, the service does not automatically include:
-
-- Automated testing
-- Performance testing
-- Penetration testing
-- Security auditing
-- Source-code review
-- Infrastructure testing
-- Advanced API testing
-- Production monitoring
-
-Additional testing activities can be discussed according to the project's requirements.
-
----
-
-## 🔒 Confidentiality
-
-Client credentials, private application information, personal data and confidential testing evidence should not be published in this public repository.
-
-Client deliverables remain private unless the client explicitly authorizes their publication.
-
-Public examples in this portfolio are based on demonstration applications, personal projects or anonymized information.
-
----
+Specialized testing requirements can be discussed separately.
 
 ## Contact
 
@@ -365,11 +119,3 @@ Let's discuss your testing needs.
 📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
 💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
-
----
-
-## 🚀 Let's Test Before Your Users Do
-
-If you are developing a website, web application or digital product and need manual QA testing, feel free to get in touch.
-
-I can help you identify functional issues, document defects clearly and provide structured QA feedback before release.
