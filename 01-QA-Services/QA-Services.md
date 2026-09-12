@@ -106,7 +106,9 @@ Depending on the project scope, deliverables may include:
 - Retesting results
 - QA test summary report
 
-**Starting price: $75–$150**
+### Starting price
+
+**From $75**
 
 The final price depends on:
 
