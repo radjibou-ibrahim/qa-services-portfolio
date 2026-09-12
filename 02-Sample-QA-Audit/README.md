@@ -319,17 +319,15 @@ Junior QA Manual Tester
 
 ---
 
-## 📞 Contact
+## Contact
 
-📧 ibrahimradjibou@gmail.com  
-📧 radjguerigui07@gmail.com
+Have a website or application you want tested?
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/radjibou-ibrahim
+Let's discuss your testing needs.
 
-💻 **GitHub:**  
-https://github.com/radjibou-ibrahim
-
+📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
+💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
 ---
 
 ## ⭐ Purpose of This Project
