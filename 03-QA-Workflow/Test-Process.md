@@ -1,8 +1,7 @@
 # Test Process
 
 ## Overview
-
-This document describes the standard process used to execute manual QA testing activities.
+> **Purpose:** Explain how manual testing activities are prepared, executed, documented and completed during a QA engagement.
 
 The process is designed to provide structured, traceable and evidence-based testing while remaining adaptable to the client's product, requirements, priorities and timeline.
 
