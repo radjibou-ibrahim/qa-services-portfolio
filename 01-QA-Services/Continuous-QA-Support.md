@@ -132,15 +132,12 @@ The support scope can then be discussed and defined according to the project's n
 **Radjibou IBRAHIM**  
 Junior QA Manual Tester
 
-Email:
+## Contact
 
-- ibrahimradjibou@gmail.com
-- radjguerigui07@gmail.com
+Have a website or application you want tested?
 
-LinkedIn:
+Let's discuss your testing needs.
 
-https://www.linkedin.com/in/radjibou-ibrahim
-
-GitHub:
-
-https://github.com/radjibou-ibrahim
+📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
+💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
