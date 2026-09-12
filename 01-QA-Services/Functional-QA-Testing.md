@@ -1,6 +1,6 @@
 # Functional QA Testing
 
-> Structured manual testing to verify that a website or web application behaves as expected and is ready for release.
+> Structured manual testing to verify that a website or web application behaves as expected and to provide actionable QA information for release decisions.
 
 ---
 
@@ -537,9 +537,9 @@ Additional services can be discussed separately.
 
 ### Starting price
 
-**From $75–$150**
+**From $75**
 
-The final price depends on the project scope.
+The final price depends on the project scope, application complexity, testing coverage and deadline.
 
 Factors considered include:
 
