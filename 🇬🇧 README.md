@@ -95,16 +95,15 @@ Deliverables are agreed with the client before testing begins.
 
 Manual testing of an e-commerce application covering authentication, products, cart and checkout workflows.
 
-**View Case Study**
-[View E-commerce Project](...)
+[View E-commerce Project](https://github.com/radjibou-ibrahim/qa-ecommerce-testing)
 
 
 ### 🏦 Banking — XYZ Bank
 
 Manual testing of a demo banking application covering authentication, accounts and banking transactions.
 
-**View Case Study**
-[View Banking Project](...)
+
+[View Banking Project](https://github.com/radjibou-ibrahim/qa-banking-testing)
 
 ---
 
@@ -181,9 +180,9 @@ Have a website or application you want tested?
 
 Let's discuss your testing needs.
 
-📧 **Email:** ibrahimradjibou@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/radjibou-ibrahim  
-💻 **GitHub:** github.com/radjibou-ibrahim
+📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
+💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
 
 ## About This Portfolio
 
