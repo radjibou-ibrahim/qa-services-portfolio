@@ -96,12 +96,15 @@ Deliverables are agreed with the client before testing begins.
 Manual testing of an e-commerce application covering authentication, products, cart and checkout workflows.
 
 **View Case Study**
+[View E-commerce Project](...)
+
 
 ### 🏦 Banking — XYZ Bank
 
 Manual testing of a demo banking application covering authentication, accounts and banking transactions.
 
 **View Case Study**
+[View Banking Project](...)
 
 ---
 
@@ -147,6 +150,30 @@ Focused manual QA audit with documented findings and evidence.
 Structured manual testing adapted to the application's scope and requirements.
 
 Final pricing depends on scope, application complexity, testing coverage and deadline.
+
+---
+
+## Confidentiality
+
+Client information and testing materials are handled confidentially.
+
+This includes:
+
+- Application access and credentials
+- Business and product information
+- Test data
+- Screenshots and testing evidence
+- Internal documentation
+- Defect reports
+- Other information shared during the engagement
+
+Client information will not be publicly disclosed, shared with third parties or used in public portfolio materials without prior authorization.
+
+Portfolio examples and case studies are based on personal projects or publicly available demo applications unless explicitly stated otherwise.
+
+Sensitive information should be shared through an appropriate secure channel and should not be published in public repositories.
+
+---
 
 ## Contact
 
