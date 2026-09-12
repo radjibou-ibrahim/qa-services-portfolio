@@ -11,6 +11,7 @@ The **QA Quick Audit** is a focused manual testing service designed to provide a
 The objective is to quickly identify important issues that could affect users, business operations or the overall quality of the product.
 
 This service is particularly suitable for startups, entrepreneurs, developers and small teams that need a first QA review without requiring a complete testing project.
+This is a focused manual QA review, not a security audit, compliance audit or exhaustive software quality assessment.
 
 ---
 
