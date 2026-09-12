@@ -2,321 +2,204 @@
 ---
 
 # 🇫🇷 `README-FR.md`
+# Services de Tests QA Manuels
 
+## Identifiez les bugs avant vos utilisateurs
 
-# Portfolio de Services QA
+Je propose des services structurés de tests QA manuels pour les sites web, applications web et produits numériques.
 
-> Tests logiciels manuels • Tests fonctionnels • Tests exploratoires • Audits QA • Rapports de bugs
+J'aide les startups, agences, développeurs et petites entreprises à identifier les problèmes fonctionnels, les problèmes d'utilisabilité et les cas limites avant la mise en production.
 
-Bienvenue sur mon portfolio de services QA.
-
-Je suis **Radjibou IBRAHIM**, Testeur QA Manual Junior. J'aide les startups, développeurs, agences, entrepreneurs et petites équipes logicielles à identifier les problèmes fonctionnels, les problèmes d'utilisation et les risques potentiels avant qu'ils n'affectent les utilisateurs.
-
-Ce repository présente ma méthode de travail, mes services QA, des exemples de livrables ainsi que mes projets pratiques de tests.
+[Demander un audit QA](./01-QA-Services/QA-Quick-Audit-FR.md) · [Voir les études de cas](./04-Case-Studies/README.md)
 
 ---
 
-## 🎯 À propos de moi
+## Ce que je peux vous aider à tester
 
-Je suis Testeur QA Manual Junior avec une expérience pratique acquise à travers plusieurs projets personnels de tests, notamment sur des applications web, e-commerce et bancaires.
+### 🔎 Audit QA Rapide
 
-Mon approche repose sur une démarche structurée et pratique :
-
-- Analyse des exigences
-- Planification des tests
-- Conception des scénarios de test
-- Conception des cas de test
-- Préparation des données de test
-- Exécution des tests manuels
-- Tests exploratoires
-- Analyse des valeurs limites (BVA)
-- Partitionnement en classes d'équivalence (EP)
-- Tests de régression
-- Tests Smoke
-- Identification et reproduction des anomalies
-- Rédaction des rapports de bugs
-- Retest et vérification des corrections
-- Rédaction du rapport de synthèse des tests
-
-J'utilise également **Jira, GitHub, Excel, Postman et SQL à un niveau de base**.
-
----
-
-# 🧪 Services QA
-
-## 1. QA Quick Audit — Audit QA rapide
-
-Une revue manuelle ciblée d'un site web ou d'une application web afin d'identifier les problèmes fonctionnels visibles et les problèmes potentiels d'utilisation.
-
-### Vérifications possibles
-
-- Navigation principale
-- Formulaires et validation des champs
-- Boutons et liens
-- Parcours d'authentification
-- Scénarios positifs et négatifs
-- Cas limites de base
-- Expérience utilisateur
-- Incohérences fonctionnelles
-- Tests exploratoires
-
-### Livrables
-
-- Liste des problèmes identifiés
-- Rapports de bugs structurés
-- Étapes de reproduction
-- Résultats attendus et obtenus
-- Captures d'écran lorsque nécessaire
-- Évaluation de la sévérité et de la priorité
-- Courte synthèse QA
-
-### Tarif indicatif
+Une revue manuelle ciblée permettant d'identifier les problèmes fonctionnels reproductibles, les problèmes de validation, les problèmes de navigation et les cas limites.
 
 **À partir de 25 $**
 
-Le prix final dépend de la taille de l'application et du périmètre des tests.
+[En savoir plus](./01-QA-Services/QA-Quick-Audit-FR.md)
 
 ---
 
-## 2. Tests QA fonctionnels
+### 🧪 Tests QA Fonctionnels
 
-Un service de tests manuels plus structuré pour les sites web et applications web.
+Des tests manuels structurés basés sur vos exigences, vos workflows et vos priorités métier.
 
-### Processus
+Comprend la conception des tests, leur exécution, le signalement des anomalies et les résultats QA.
 
-1. Comprendre l'application et les exigences
-2. Définir le périmètre des tests
-3. Identifier les scénarios de test
-4. Concevoir les cas de test
-5. Préparer les données de test
-6. Exécuter les tests
-7. Signaler les anomalies
-8. Retester les corrections
-9. Effectuer une régression lorsque nécessaire
-10. Préparer la synthèse des tests
+**À partir de 75 $**
 
-### Livrables
-
-- Plan de test ou périmètre de test
-- Scénarios de test
-- Cas de test
-- Données de test
-- Résultats d'exécution
-- Rapports de bugs
-- Captures d'écran / preuves
-- Rapport de synthèse QA
-
-### Tarif indicatif
-
-**À partir de 75–150 $**
-
-Le prix final dépend du périmètre, du nombre de fonctionnalités et des livrables demandés.
+[En savoir plus](./01-QA-Services/Functional-QA-Testing-FR.md)
 
 ---
 
-# 3. Support QA continu
+### 🔄 Support QA
 
-Pour les équipes qui ont besoin de tests manuels réguliers pendant le développement du produit.
+Un support QA manuel flexible, adapté à votre produit, votre cycle de livraison et vos besoins en matière de tests.
 
-Les activités peuvent inclure :
+Le périmètre et les livrables sont définis en fonction du projet.
 
-- Tests de nouvelles fonctionnalités
-- Tests de régression
-- Tests exploratoires
-- Vérification des corrections
-- Tests avant mise en production
-- Tests Smoke
-- Maintenance des cas de test
-- Documentation QA
-- Retour qualité avant release
-
-Le tarif peut être défini selon les besoins et la fréquence des interventions.
+[En savoir plus](./01-QA-Services/QA-Support-FR.md)
 
 ---
 
-# 🛠️ Processus QA
-
-Mon processus général de test est le suivant :
+## Comment je travaille
 
 ```text
-Exigences
-     ↓
-Planification des tests
-     ↓
-Scénarios de test
-     ↓
-Cas de test
-     ↓
-Données de test
-     ↓
-Exécution des tests
-     ↓
-Rapports de bugs
-     ↓
-Retest
-     ↓
-Tests de régression
-     ↓
-Synthèse des tests
-
+Demande du client
+        ↓
+Périmètre
+        ↓
+Tests
+        ↓
+Anomalies
+        ↓
+Preuves
+        ↓
+Rapport QA
 ```
-Le processus peut être adapté à la taille et aux objectifs du projet.
+L'approche de test est adaptée au produit, aux exigences, aux risques et au périmètre convenu.
 
 ---
 
-## 📋 Exemple de rapport de bug
-Un rapport de bug peut contenir :
+## 📦 Ce que vous recevez
 
-| Field | Description |
-|---|---|
-| **Bug ID** | Unique identifier |
-| **Title** | Short description of the issue |
-| **Environment** | Browser, OS, device, etc. |
-| **Preconditions** | Conditions required before testing |
-| **Steps to Reproduce** | Clear reproduction steps |
-| **Expected Result** | Expected application behavior |
-| **Actual Result** | Observed behavior |
-| **Severity** | Impact of the defect |
-| **Priority** | Urgency of fixing the defect |
-| **Evidence** | Screenshot/video when relevant |
-| **Status** | Open, Fixed, Retest, Closed, etc. |
+Selon le service sélectionné :
 
-L'objectif est de fournir aux développeurs suffisamment d'informations pour comprendre et reproduire rapidement le problème.
+- Cas de test
+- Résultats d'exécution des tests
+- Rapports d'anomalies
+- Preuves
+- Résultats des tests exploratoires
+- Synthèse QA
+- Rapport d'audit QA
+
+Les livrables sont définis avec le client avant le début des tests.
 
 ---
 
-## 🧩 Études de cas
-Tests d'une application e-commerce
-Projet pratique de tests manuels réalisé sur une application e-commerce.
-Les activités comprenaient :
-- Analyse des exigences
-- Planification des tests
-- Conception des scénarios
-- Conception des cas de test
-- Préparation des données
+## 💡 Pourquoi travailler avec moi ?
+
+- **Structuré** — Un processus de test clair et organisé
+- **Reproductible** — Les résultats des tests et les anomalies peuvent être reproduits
+- **Basé sur des preuves** — Les constats sont accompagnés de preuves réelles
+- **Orienté risques** — Les tests donnent la priorité aux risques importants pour les utilisateurs et l'activité
+- **Confidentiel** — Les informations du client sont traitées de manière confidentielle
+
+---
+
+## 📚 Études de cas
+
+### 🛒 E-commerce — SauceDemo
+
+Tests manuels d'une application e-commerce couvrant l'authentification, les produits, le panier et les workflows de paiement.
+
+
+[View E-commerce Project](https://github.com/radjibou-ibrahim/qa-ecommerce-testing)
+
+### 🏦 Banque — XYZ Bank
+
+Tests manuels d'une application bancaire de démonstration couvrant l'authentification, les comptes et les transactions bancaires.
+
+**Voir l'étude de cas**
+
+[View Banking Project](https://github.com/radjibou-ibrahim/qa-banking-testing)
+
+
+---
+
+## 🛠️ Outils
+
+Jira · Excel · GitHub · Postman · SQL · Browser DevTools
+
+---
+
+## Périmètre & Limitations
+
+### Je propose
+
+- QA manuel
 - Tests fonctionnels
 - Tests exploratoires
-- Exécution des tests
-- Rédaction des bugs
-- Retest
-- Synthèse des résultats
+- Tests de régression
+- Retests
+- Documentation des tests
+- Rapports d'anomalies
+
+### Non inclus par défaut
+
+- Tests automatisés
+- Tests de performance / charge
+- Tests d'intrusion et de sécurité
+- Autres tests spécialisés
+
+Ces services peuvent être discutés séparément lorsque cela est pertinent.
 
 ---
 
-## Tests d'une application bancaire
-Projet pratique de tests manuels réalisé sur une application bancaire.
-Les fonctionnalités testées comprenaient notamment :
-- Authentification client
-- Authentification du gestionnaire
-- Tableau de bord client
-- Informations du compte
-- Solde du compte
-- Historique des transactions
-- Dépôt
-- Retrait
-- Gestion des clients et comptes
-- Déconnexion et navigation
-Les techniques utilisées comprenaient les tests fonctionnels, négatifs, les valeurs limites et les tests exploratoires.
+## Tarification
+
+### Audit QA Rapide
+
+À partir de 25 $
+
+Audit QA manuel ciblé avec constats documentés et preuves.
+
+### Tests QA Fonctionnels
+
+À partir de 75 $
+
+Tests manuels structurés adaptés au périmètre et aux exigences de l'application.
+
+Le tarif final dépend du périmètre, de la complexité de l'application, de la couverture de test et du délai.
 
 ---
 
-## 🧰 Outils
-Outils actuellement utilisés dans ma pratique QA :
-- Jira — Gestion des bugs et des tickets
-- GitHub — Versionnement et documentation QA
-- Excel — Cas de test, données de test et suivi d'exécution
-- Postman — Tests API de base
-- SQL — Tests de base sur les données
-- Navigateurs / DevTools — Investigation des applications web
+## Confidentialité
 
-## 📦 Livrables possibles
-Selon le projet, les livrables peuvent inclure :
-- Périmètre de test
-- Plan de test
-- Scénarios de test
-- Cas de test
-- Données de test
-- Rapport d'exécution
-- Rapports de bugs
-- Captures d'écran / preuves
-- Notes de tests exploratoires
-- Rapport de synthèse QA
-Recommandations
-Les livrables sont adaptés au projet réel plutôt que d'appliquer systématiquement le même processus à toutes les applications.
+Les informations du client et les éléments liés aux tests sont traités de manière confidentielle.
+
+Cela comprend notamment :
+
+- Les accès à l'application et les identifiants
+- Les informations commerciales et relatives au produit
+- Les données de test
+- Les captures d'écran et preuves de test
+- La documentation interne
+- Les rapports d'anomalies
+- Toute autre information communiquée dans le cadre de la mission
+
+Les informations du client ne seront pas divulguées publiquement, partagées avec des tiers ou utilisées dans des supports publics de portfolio sans autorisation préalable.
+
+Les exemples et études de cas présentés dans ce portfolio sont basés sur des projets personnels ou des applications de démonstration accessibles au public, sauf indication contraire explicite.
+
+Les informations sensibles doivent être partagées via un moyen de communication sécurisé et ne doivent pas être publiées dans des dépôts publics.
 
 ---
 
-## 👥 Types de clients
-Mes services sont particulièrement adaptés aux :
-- Startups
-- Entreprises SaaS
-- Agences web
-- Équipes développant des applications mobiles
-- Entreprises e-commerce
-- Développeurs indépendants
-- Petites entreprises logicielles
-- Entrepreneurs lançant des produits numériques
-- Projets WordPress / WooCommerce
-Je m'intéresse particulièrement aux projets qui ne disposent pas encore d'un testeur QA dédié.
+## Contact
 
-## 🌍 Communication
-Je travaille principalement avec des clients francophones.
-Pour les clients anglophones, je peux communiquer efficacement par messages écrits et documentation.
-Les documents QA destinés aux clients peuvent être préparés en :
-- Français
-- Anglais
-La langue peut être adaptée aux besoins du client.
+Vous avez un site web ou une application que vous souhaitez faire tester ?
+
+Discutons de vos besoins en matière de tests.
+
+📧 Email : [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
+💼 LinkedIn : [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
+💻 GitHub : [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
 
 ---
 
-## 💼 Déroulement d'une mission
-Avant de commencer une mission QA rémunérée, je clarifie :
-1- L'application ou le produit à tester
-2- Les objectifs des tests
-3- Le périmètre des tests
-4- Les fonctionnalités à tester
-5- L'environnement et les accès
-6- Les livrables attendus
-7- Le délai
-8- Le format des rapports
-9- Le prix
-10- Le moyen de paiement
-Cela permet aux deux parties d'avoir un périmètre clair et réaliste avant le début des tests.
+## À propos de ce portfolio
 
----
+Ce repository présente mes services QA, mon approche des tests et mes études de cas pratiques en QA.
 
-## 🔐 Confidentialité
-Les informations clients, identifiants, données privées, accès aux applications et preuves de test confidentielles ne doivent pas être publiés dans ce repository public.
-Les exemples publics sont anonymisés ou réalisés sur des applications de démonstration.
-Les livrables privés des clients restent confidentiels, sauf autorisation explicite de publication.
+Les processus détaillés, les descriptions des services et la documentation des projets sont disponibles dans les sections correspondantes.
 
----
+Radjibou IBRAHIM  
+Junior QA Manual Tester | Software Testing & Quality Assurance
 
-## 📈 Mon objectif en QA
-Mon objectif est d'aider les équipes à livrer des logiciels plus fiables grâce à des tests manuels structurés, pratiques et clairement documentés.
-Je cherche à identifier les problèmes le plus tôt possible, à les expliquer clairement et à fournir un retour QA utile aux équipes de développement.
-
----
-
-## 📬 Contact
-Radjibou IBRAHIM
-Testeur QA Manual Junior
-
-📍 Remote
-
-📧 Email : ibrahimradjibou@gmail.com
-
-📧 Email : radjguerigui07@gmail.com
-
-💼 LinkedIn :
-https://www.linkedin.com/in/radjibou-ibrahim⁠
-
-💻 GitHub :
-https://github.com/radjibou-ibrahim⁠
-
----
-
-⭐ Besoin de tests QA ?
-Vous développez un site web, une application web ou un produit numérique et vous avez besoin d'une revue QA manuelle ?
-N'hésitez pas à me contacter.
-Identifions les problèmes avant vos utilisateurs.
