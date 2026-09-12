@@ -354,20 +354,15 @@ Public examples in this portfolio are based on demonstration applications, perso
 
 ---
 
-## 📬 Contact
+## Contact
 
-**Radjibou IBRAHIM**  
-Junior QA Manual Tester
+Have a website or application you want tested?
 
-**Email:**  
-ibrahimradjibou@gmail.com  
-radjguerigui07@gmail.com
+Let's discuss your testing needs.
 
-**LinkedIn:**  
-https://www.linkedin.com/in/radjibou-ibrahim
-
-**GitHub:**  
-https://github.com/radjibou-ibrahim
+📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
+💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
 
 ---
 
