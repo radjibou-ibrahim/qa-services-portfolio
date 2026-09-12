@@ -265,7 +265,7 @@ The final results of the audit are summarized in:
 - **Google Chrome** — Web application testing
 - **Microsoft Excel** — Test scenarios, test cases, test data and execution
 - **GitHub** — Project documentation and version control
-
+  
 ---
 
 ## ⚠️ Testing Limitations
