@@ -1,6 +1,7 @@
 # Sample QA Audit — OrangeHRM Demo
 
 > Independent manual QA demonstration project focused on functional, exploratory and usability testing.
+>  **Example of a focused manual QA audit deliverable for a web application.**
 
 ---
 
@@ -43,6 +44,8 @@ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 **Application Type:** Web Application
 
 **Testing Type:** Independent Manual QA Audit
+
+> The application URL and behavior may change over time because this is a public demo environment.
 
 ---
 
@@ -114,6 +117,8 @@ The testing approach is adapted to the selected functionality and the defined au
 | Testing Type | Manual |
 | Environment | Public Demo |
 
+Application Version: Application Version: Not exposed by the public demo
+
 ---
 
 ## 🔄 QA Process
@@ -134,6 +139,7 @@ Evidence Collection
 QA Audit Report
 ```
 This structure demonstrates traceability between the testing objectives, test execution and reported findings.
+> For this focused QA audit, the workflow was adapted to the project scope.
 
 ---
 
@@ -255,10 +261,10 @@ The final results of the audit are summarized in:
 ---
 
 ## 🛠️ Tools
-Tools used in this project include:
-Google Chrome — Web application testing
-Microsoft Excel — Test scenarios, test cases, test data and execution
-GitHub — Project documentation and version control
+
+- **Google Chrome** — Web application testing
+- **Microsoft Excel** — Test scenarios, test cases, test data and execution
+- **GitHub** — Project documentation and version control
 
 ---
 
@@ -285,20 +291,30 @@ No confidential or private client information is used in this project.
 ## 📁 Project Structure
 
 02-Sample-QA-Audit/
-│
 ├── README.md
 ├── Test-Scope.md
-│
 ├── Test-Scenarios.xlsx
 ├── Test-Execution.xlsx
-│
 ├── 04-Bug-Reports/
-│
 ├── 05-Evidence/
 │   ├── README.md
 │   └── screenshots/
-│
 └── QA-Audit-Report.pdf
+
+---
+
+## 📊 Audit Results
+
+| Metric | Result |
+|---|---:|
+| Test Cases Executed | 24 |
+| PASS |23 |
+| FAIL | 00 |
+| BLOCKED | 01 |
+| NOT RUN | 00 |
+| Confirmed Defects | 00 |
+
+> **Note:** The metrics above reflect the final recorded execution results.
 
 ---
 
@@ -307,28 +323,8 @@ No confidential or private client information is used in this project.
 **Radjibou IBRAHIM**  
 Junior QA Manual Tester
 
-### QA Focus
-
-- Manual Testing
-- Functional Testing
-- Exploratory Testing
-- Test Design
-- Bug Reporting
-- Regression Testing
-- Web Application Testing
-
 ---
 
-## Contact
-
-Have a website or application you want tested?
-
-Let's discuss your testing needs.
-
-📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
-💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
----
 
 ## ⭐ Purpose of This Project
 
