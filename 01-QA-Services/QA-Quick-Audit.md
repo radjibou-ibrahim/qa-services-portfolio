@@ -487,12 +487,12 @@ I will review the scope and provide a suitable testing proposal.
 **Radjibou IBRAHIM**  
 Junior QA Manual Tester
 
-**Email:**  
-ibrahimradjibou@gmail.com  
-radjguerigui07@gmail.com
+## Contact
 
-**LinkedIn:**  
-https://www.linkedin.com/in/radjibou-ibrahim
+Have a website or application you want tested?
 
-**GitHub:**  
-https://github.com/radjibou-ibrahim
+Let's discuss your testing needs.
+
+📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
+💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
