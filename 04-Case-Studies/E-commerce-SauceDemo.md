@@ -130,3 +130,12 @@ This project demonstrates practical skills in:
 For the complete documentation, test cases, execution results, bug reports and test summary:
 
 **[View the complete E-commerce Testing Project — SauceDemo](https://github.com/radjibou-ibrahim/qa-ecommerce-testing)**
+
+---
+
+> **Project Type:** Personal QA Practice Project  
+> **Application:** SauceDemo  
+> **Testing:** Manual QA  
+> **Purpose:** Demonstration of practical QA skills
+>
+
