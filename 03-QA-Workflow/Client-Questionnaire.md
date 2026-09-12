@@ -26,11 +26,11 @@ Not every question is mandatory for every project. The questionnaire is adapted 
 - Product name:
 - Project description:
 - Current product status:
-  - Development
-  - Staging
-  - Production
-  - Demo
-  - Other:
+- Development
+- Staging
+- Production
+- Demo
+- Other:
 
 ---
 
@@ -158,6 +158,8 @@ If yes, please provide them.
 - Version / Build:
 - Release date:
 
+The actual browser, device and operating system coverage depends on the agreed testing scope and available test environment.
+
 ---
 
 # 6. Test Data
@@ -175,7 +177,7 @@ If yes:
 - Username / email:
 - Required permissions:
 
-> Do not send sensitive production credentials unless they are strictly required and an appropriate secure method has been agreed upon.
+> **Security:** Do not include passwords, API keys, tokens, private keys or production credentials directly in this questionnaire or in a public repository. Sensitive access information must be shared through an agreed secure method.
 
 ### Other Test Data
 
@@ -413,11 +415,12 @@ Testing should begin only after the essential project information, access requir
 **Radjibou IBRAHIM**  
 Junior QA Manual Tester | Software Testing & Quality Assurance
 
-LinkedIn:  
-https://www.linkedin.com/in/radjibou-ibrahim
+## Contact
 
-GitHub:  
-https://github.com/radjibou-ibrahim
+Have a website or application you want tested?
 
-Email:  
-ibrahimradjibou@gmail.com
+Let's discuss your testing needs.
+
+📧 Email: [ibrahimradjibou@gmail.com](mailto:ibrahimradjibou@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/radjibou-ibrahim](https://www.linkedin.com/in/radjibou-ibrahim)  
+💻 GitHub: [github.com/radjibou-ibrahim](https://github.com/radjibou-ibrahim)
