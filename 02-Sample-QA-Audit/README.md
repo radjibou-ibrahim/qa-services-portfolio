@@ -290,6 +290,7 @@ No confidential or private client information is used in this project.
 
 ## 📁 Project Structure
 
+```text
 02-Sample-QA-Audit/
 ├── README.md
 ├── Test-Scope.md
@@ -300,7 +301,7 @@ No confidential or private client information is used in this project.
 │   ├── README.md
 │   └── screenshots/
 └── QA-Audit-Report.pdf
-
+```
 ---
 
 ## 📊 Audit Results
