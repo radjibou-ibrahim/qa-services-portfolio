@@ -185,6 +185,7 @@ Les informations sensibles doivent être partagées via un moyen de communicatio
 ## Contact
 
 Vous avez un site web ou une application que vous souhaitez faire tester ?
+Je teste vos parcours utilisateurs critiques avant vos clients et vous livre sous 24 h un rapport QA clair avec bugs reproductibles, sévérité et captures d’écran.
 
 Discutons de vos besoins en matière de tests.
 
@@ -201,5 +202,5 @@ Ce repository présente mes services QA, mon approche des tests et mes études d
 Les processus détaillés, les descriptions des services et la documentation des projets sont disponibles dans les sections correspondantes.
 
 Radjibou IBRAHIM  
-Junior QA Manual Tester | Software Testing & Quality Assurance
+Manual QA Tester | Web & SaaS Testing | Functional & Exploratory Testing | Quality Assurance
 
