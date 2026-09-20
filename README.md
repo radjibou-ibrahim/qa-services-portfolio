@@ -91,19 +91,26 @@ Deliverables are agreed with the client before testing begins.
 
 ## 📚 Case Studies
 
-### 🛒 E-commerce — SauceDemo
+###  E-commerce — SauceDemo
 
 Manual testing of an e-commerce application covering authentication, products, cart and checkout workflows.
 
 [View E-commerce Project](https://github.com/radjibou-ibrahim/qa-ecommerce-testing)
 
 
-### 🏦 Banking — XYZ Bank
+###  Banking — XYZ Bank
 
 Manual testing of a demo banking application covering authentication, accounts and banking transactions.
 
 
 [View Banking Project](https://github.com/radjibou-ibrahim/qa-banking-testing)
+
+
+###  API Testing with Postman – User Management System
+
+This project demonstrates REST API testing using Postman.
+
+[View API Testing with Postman](https://github.com/radjibou-ibrahim/qa-api-testing-postman)
 
 ---
 
